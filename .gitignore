@@ -35,3 +35,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+SteamVR
+SteamVR_Input
+Standard Assets
